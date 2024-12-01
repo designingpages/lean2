@@ -1,9 +1,13 @@
 hi hello
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("hi hell0");
 
 //changed
+=======
+print("hi heelo"); 
+>>>>>>> 6057121e7119d832bc81417d6c75bdb98dfe7d87
 =======
 print("hi heelo"); 
 >>>>>>> 6057121e7119d832bc81417d6c75bdb98dfe7d87
